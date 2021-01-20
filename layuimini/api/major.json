@@ -1,0 +1,29 @@
+
+{
+  "code": 0,
+  "msg": "",
+  "count": 100,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "网络工程",
+      "createTime": "2001-12-12",
+      "remark": "网络工程"
+    }, {
+      "id": 2,
+      "majorName": "物联网工程",
+      "createTime": "2001-12-12",
+      "remark": "物联网工程"
+    }, {
+      "id": 3,
+      "majorName": "计算机科学与技术",
+      "createTime": "2001-12-12",
+      "remark": "计算机科学与技术"
+    }, {
+      "id": 4,
+      "majorName": "软件工程",
+      "createTime": "2001-12-12",
+      "remark": "软件工程"
+    }
+  ]
+}
